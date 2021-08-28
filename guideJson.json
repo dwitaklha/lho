@@ -31,7 +31,7 @@
 	  "lienPolicy" :"https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html"
 	},
 	"promoApp" : {
-	  "showButton":"true",
+	  "showButton":"false",
 	  "lien":"https://play.google.com/store/apps/details?id=com.facebook.katana",
 	  "img": "https://images.pexels.com/photos/5939116/pexels-photo-5939116.jpeg"
 	},
