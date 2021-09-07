@@ -15,20 +15,20 @@
 		    "idInterMopub": "b195f8dd8ded45fe847ad89ed1d016da" 
 		 },
 		 "mode" :{
-		    "banner":"admob",
-		    "interstitial": "admob",
-		    "native": "admob"
+		    "banner":"0",
+		    "interstitial": "0",
+		    "native": "0"
 		    
 		 }
      },
     "configeOurApp" : {
-	  "nameApp" : "name guide",
-	  "package" : "com.facebook.katana",
+	  "nameApp" : "Pico Park",
+	  "package" : "com.picopico.full_guide",
 	  "store":"pub: ",
-	  "email": "  @gmail.com",
+	  "email": "dadamou@gmail.com",
 	  "ImgPresentation":"https://nabdfy.xyz/Mois_6/account3/amongus_cont.png",
 	  "idOneSignal":"5f061b2d-1a55-4bf0-bd47-9fc9828a4474",
-	  "lienPolicy" :"https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html"
+	  "lienPolicy" :"https://sites.google.com/view/locoplayguide/accueil"
 	},
 	"promoApp" : {
 	  "showButton":"false",
@@ -45,6 +45,20 @@
     },
     {
       "id" : 1,
+      "ImgPresentation":"https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg",
+      "imageURL" : "",
+      "title" : "What Should i Use HappyMod App?",
+	   "written":"Use HappyMod App<br>Alth"
+    },  
+     {
+      "id" : 2,
+      "ImgPresentation":"https://nabdfy.xyz/Mois_6/account3/amongus_cont.png",
+      "title" : "What Should i Use HappyMod App",
+      "imageURL" : "https://nabdfy.xyz/Mois_6/account3/happy_cont.png",
+	  "written":"Use HappyMod App<br>Alth"
+    },
+    {
+      "id" : 3,
       "ImgPresentation":"https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg",
       "imageURL" : "",
       "title" : "What Should i Use HappyMod App?",
