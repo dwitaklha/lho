@@ -15,15 +15,15 @@
 		    "idInterMopub": "b195f8dd8ded45fe847ad89ed1d016da" 
 		 },
 		 "mode" :{
-		    "banner":"admob",
-		    "interstitial": "admob",
-		    "native": "admob"
+		    "banner":"0",
+		    "interstitial": "0",
+		    "native": "0"
 		    
 		 }
      },
     "configeOurApp" : {
-	  "nameApp" : "name guide",
-	  "package" : "com.facebook.katana",
+	  "nameApp" : "happymod",
+	  "package" : "com.picopico.full_guide",
 	  "store":"pub: ",
 	  "email": "  @gmail.com",
 	  "ImgPresentation":"https://nabdfy.xyz/Mois_6/account3/amongus_cont.png",
@@ -31,7 +31,7 @@
 	  "lienPolicy" :"https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html"
 	},
 	"promoApp" : {
-	  "showButton":"true",
+	  "showButton":"false",
 	  "lien":"https://play.google.com/store/apps/details?id=com.facebook.katana",
 	  "img": "https://images.pexels.com/photos/5939116/pexels-photo-5939116.jpeg"
 	},
@@ -52,7 +52,7 @@
     }
   ],
   "cpa" : {
-      "isCpaExist" : "true",
+      "isCpaExist" : "false",
       "postCpa" : [
           {
               "id" : 0,
