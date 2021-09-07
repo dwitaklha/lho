@@ -22,7 +22,7 @@
 		 }
      },
     "configeOurApp" : {
-	  "nameApp" : "happymod",
+	  "nameApp" : "name guide",
 	  "package" : "com.facebook.katana",
 	  "store":"pub: ",
 	  "email": "  @gmail.com",
