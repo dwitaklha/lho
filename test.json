@@ -1,0 +1,82 @@
+{ 
+     "ads":{
+         "admob" : {
+		    "idBanner": "ca-app-pub-3940256099942544/6300978111",
+            "idInter": "ca-app-pub-3940256099942544/1033173712",
+            "idNative": "ca-app-pub-3940256099942544/2247696110"
+		 },
+         "fan":{
+		    "idBannerFb":"IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+		    "idInterFb": "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
+		    "idNativeFb":"IMG_16_9_APP_INSTALL#2312433698835503_2964952163583650"
+		 },
+		 "mopub":{
+		    "idBannerMopub":"b195f8dd8ded45fe847ad89ed1d016da",
+		    "idInterMopub": "b195f8dd8ded45fe847ad89ed1d016da" 
+		 },
+		 "mode" :{
+		    "banner":"admob",
+		    "interstitial": "admob",
+		    "native": "admob"
+		    
+		 }
+     },
+    "configeOurApp" : {
+	  "nameApp" : "name guide",
+	  "package" : "com.facebook.katana",
+	  "store":"pub: ",
+	  "email": "  @gmail.com",
+	  "ImgPresentation":"https://nabdfy.xyz/Mois_6/account3/amongus_cont.png",
+	  "idOneSignal":"5f061b2d-1a55-4bf0-bd47-9fc9828a4474",
+	  "lienPolicy" :"https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html"
+	},
+	"promoApp" : {
+	  "showButton":"true",
+	  "lien":"https://play.google.com/store/apps/details?id=com.facebook.katana",
+	  "img": "https://images.pexels.com/photos/5939116/pexels-photo-5939116.jpeg"
+	},
+    "posts" : [
+  	{
+      "id" : 0,
+      "ImgPresentation":"https://nabdfy.xyz/Mois_6/account3/amongus_cont.png",
+      "title" : "What Should i Use HappyMod App",
+      "imageURL" : "https://nabdfy.xyz/Mois_6/account3/happy_cont.png",
+	  "written":"Use HappyMod App<br>Alth"
+    },
+    {
+      "id" : 1,
+      "ImgPresentation":"https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg",
+      "imageURL" : "",
+      "title" : "What Should i Use HappyMod App?",
+	   "written":"Use HappyMod App<br>Alth"
+    }
+  ],
+  "cpa" : {
+      "isCpaExist" : "true",
+      "postCpa" : [
+          {
+              "id" : 0,
+               "img":"https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg",
+               "title" : "facebook",
+               "lien":"https://play.google.com/store/apps/details?id=com.facebook.katana"
+          },
+          {
+              "id" : 2,
+               "img":"https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg",
+               "title" : "facebook",
+               "lien":"https://play.google.com/store/apps/details?id=com.facebook.katana"
+          },  {
+              "id" : 2,
+               "img":"https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg",
+               "title" : "facebook",
+               "lien":"https://play.google.com/store/apps/details?id=com.facebook.katana"
+          },  {
+              "id" : 2,
+               "img":"https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg",
+               "title" : "facebook",
+               "lien":"https://play.google.com/store/apps/details?id=com.facebook.katana"
+          }
+          
+          ]
+  }
+}
