@@ -25,37 +25,37 @@
 	  "nameApp" : "pico park",
 	  "package" : "",
 	  "store":"pub: ",
-	  "email": "dada@gmail.com",
-	  "ImgPresentation":"https://nabdfy.xyz/Mois_6/account3/amongus_cont.png",
+	  "email": "bielyimrich@gmail.com",
+	  "ImgPresentation":"https://dwitaklha.github.io/lho/playstore.png",
 	  "idOneSignal":"5f061b2d-1a55-4bf0-bd47-9fc9828a4474",
 	  "lienPolicy" :"https://sites.google.com/view/locoplayguide/accueil"
 	},
 	"promoApp" : {
-	  "showButton":"true",
+	  "showButton":"false",
 	  "lien":"https://play.google.com/store/apps/details?id=com.facebook.katana",
 	  "img": "https://images.pexels.com/photos/5939116/pexels-photo-5939116.jpeg"
 	},
     "posts" : [
   	{
       "id" : 0,
-      "ImgPresentation":"https://nabdfy.xyz/Mois_6/account3/amongus_cont.png",
-      "title" : "What Should i Use HappyMod App",
-      "imageURL" : "https://nabdfy.xyz/Mois_6/account3/happy_cont.png",
-	  "written":"Use HappyMod App<br>Alth"
+      "ImgPresentation":"https://dwitaklha.github.io/lho/playstore.png",
+      "title" : "Cours1",
+      "imageURL" : "",
+	  "written":""
     },
     {
       "id" : 1,
-      "ImgPresentation":"https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg",
+      "ImgPresentation":"https://dwitaklha.github.io/lho/playstore.png",
       "imageURL" : "",
-      "title" : "What Should i Use HappyMod App?",
-	   "written":"Use HappyMod App<br>Alth"
+      "title" : "Cours2",
+	   "written":""
     },
     {
       "id" : 2,
-      "ImgPresentation":"https://images.pexels.com/photos/5598288/pexels-photo-5598288.jpeg",
+      "ImgPresentation":"https://dwitaklha.github.io/lho/playstore.png",
       "imageURL" : "",
-      "title" : "What Should i Use HappyMod App?",
-	   "written":"Use HappyMod App<br>Alth"
+      "title" : "Cours3",
+	   "written":""
     }
     ],
   "cpa" : {
