@@ -31,7 +31,7 @@
 	  "lienPolicy" :"https://sites.google.com/view/locoplayguide/accueil"
 	},
 	"promoApp" : {
-	  "showButton":"false",
+	  "showButton":"true",
 	  "lien":"https://play.google.com/store/apps/details?id=com.facebook.katana",
 	  "img": "https://images.pexels.com/photos/5939116/pexels-photo-5939116.jpeg"
 	},
